@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap");
+@import "status-bar.css";
+
+@import "login.css";
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+input:focus {
+  outline: none;
+}
